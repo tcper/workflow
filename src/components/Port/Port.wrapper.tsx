@@ -66,6 +66,7 @@ export class PortWrapper extends React.Component<IPortWrapperProps> {
     const linkId = v4()
     const fromNodeId = node.id
     const fromPortId = port.id
+    return;
 
     // Create the move handler
     // This will update the position as the mouse moves

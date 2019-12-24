@@ -1,6 +1,6 @@
 {
   "name": "workflow-container",
-  "version": "0.0.9",
+  "version": "0.0.12",
   "description": "A flexible, stateless flow chart library for react.",
   "main": "src/index.js",
   "repository": "git@github.com:tcper/workflow.git",
